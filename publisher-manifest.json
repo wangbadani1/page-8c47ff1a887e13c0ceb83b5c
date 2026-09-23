@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "dd228786ea1421c215cbb659",
+  "owner": "wangbadani1",
+  "repo": "page-8c47ff1a887e13c0ceb83b5c",
+  "title": "流光云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8c47ff1a887e13c0ceb83b5c",
+      "a": "流光云",
+      "b": "2027官方最新地址导航",
+      "entity": "流光云",
+      "brand": "流光云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e370883cacc7241081ffed33bfe1716296e795f8ad1bcbe36f4c32af2e0aef4f",
+      "content": {
+        "primary_entity": "流光云",
+        "keyword1": "流光云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，主打轻量易用的海外加速服务，提供基础版、旗舰版、团队版三档订阅。基础版每月 100GB 流量，支持 3 台设备在线；旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB 流量，支持 20 台设备，配备 VIP 专属高带宽节点与企业定制路由。客户端覆盖 iOS、Android、Windows、macOS 与路由器，按设备选择合适客户端后导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "轻量订阅，多端畅连",
+          "AI_HERO_INTRO": "流光云为个人与团队提供海外网络加速订阅，按流量和在线设备数划分基础版、旗舰版与团队版。选好套餐后在对应设备安装客户端，导入订阅配置即可使用；有游戏加速或高带宽需求可侧重旗舰版与团队版。",
+          "AI_VISUAL_TITLE": "流光云订阅加速",
+          "AI_HIGHLIGHT_1": "三档套餐按需选",
+          "AI_HIGHLIGHT_2": "多端客户端支持",
+          "AI_HIGHLIGHT_3": "IPLC 专线可选",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度对比套餐，选到合适档位。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合轻量浏览，旗舰版 300GB 兼顾日常与流媒体，团队版 1000GB 适合多人共享。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台三档在线设备数量，覆盖单人到小型团队的多设备同时使用需求。",
+          "AI_FEATURE_TITLE_3": "按线路类型选档",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "iOS 与 Android 手机、Windows 与 macOS 电脑、路由器各有对应客户端，可先确认设备系统版本再挑选。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与线路上逐级提升，基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，按年付分别约 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确认需求，再核对设备与套餐适配，最后按客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据日常流量、在线设备数与是否需要游戏加速，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对所用设备系统版本与套餐支持的在线设备数量，确认客户端可正常运行。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅链接，选择延迟较低的节点后连接，即可开始使用。",
+          "AI_CLOSING_TITLE": "流光云，轻量加速",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，即可开始配置流光云订阅。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。可根据常用终端数量选择，若多台设备轮换使用建议选旗舰版及以上。",
+          "AI_FAQ_ANSWER_2": "流光云提供月付与年付两种方式，年付享优惠折扣。基础版年付150元，旗舰版年付350元，团队版年付850元，按需选择合适的周期即可。",
+          "AI_FAQ_ANSWER_3": "旗舰版配置IPLC专线并对游戏场景优化，延迟表现更稳定。团队版提供VIP专属高带宽节点，适合对带宽要求较高的团队协作场景。",
+          "AI_FAQ_ANSWER_4": "基础版可解锁基础流媒体，旗舰版及团队版支持全节点原生流媒体解锁。不同套餐线路池有差异，按实际使用需求选择对应版本即可。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由并配备专属客户经理服务，适合团队或企业集中管理。可联系客服沟通定制需求后再订阅。",
+          "AI_FAQ_QUESTION_1": "流光云套餐各支持多少台设备？",
+          "AI_FAQ_QUESTION_2": "流光云怎么付费？有年付优惠吗？",
+          "AI_FAQ_QUESTION_3": "旗舰版和团队版线路有什么区别？",
+          "AI_FAQ_QUESTION_4": "流光云能解锁流媒体吗？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景使用？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nanchangai.cn",
+    "host": "nanchangai.cn"
+  },
+  "file_hashes": {
+    "index.html": "145c915bad6bd7c463bc82e8b238df3f442975b16b4cc59d977ec319a377c0b7",
+    "sitemap.xml": "28d3c9773b313bf85fe6218694c588d7db25c3ba1038e9a72b38dad2d42a5e92",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a5e793f2fe6f76ca5e45e4d698d21aeb603fc26445a5024e9cc20145e076786a",
+    "robots.txt": "9e176b9eaaf7828295afce685a7d0d11633cc2637277967545ec1d53e082d740",
+    "7e614d2c67e31ebc0e34a8cef425650f.txt": "09933fdaaf21ffa4865eb3b44e4950e541546eecc7f13c6d7898c906895b066c"
+  },
+  "revision": "70690e86648e411924ecced0d4a809aa09e7e0103d70f315d999d6dd76fc4c8d"
+}
